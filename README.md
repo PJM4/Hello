@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page
 
-## Lots of Good Things Will appear here as I build them.
+## Lots of good things will appear here as I build them.
 
 
-### However, Till that happens, Stay Frosty.
+### However, Till That Happens, Stay Frosty.
