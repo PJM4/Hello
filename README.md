@@ -5,9 +5,8 @@
 
 ### However, Till That Happens, Stay Frosty.
 
-####Who am I!
+#### Who am I!
 
-:Computer: Second Year Mature Student at Aberystwyth University.
-Studying Bsc in Computer Science with Foundation Year G40F
-Aberystwyth University
+:computer: Second Year Mature Student at Aberystwyth University.
+  Studying Bsc in Computer Science with Foundation Year G40F
 :Email: Paul@PaulMaxwell.me
