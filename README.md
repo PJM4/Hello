@@ -6,6 +6,6 @@
 ### However, Till That Happens, Stay Frosty.
 
 Who am I!
-* Second Year Mature Student at Aberystwyth University.
-* Studying Bsc in Computer Science with Foundation Year G40F
+* Third Year, Mature Student at Aberystwyth University.
+* Studying Bsc in Computer Science with Foundation Year. G40F
 * Email: Paul@PaulMaxwell.me
